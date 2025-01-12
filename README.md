@@ -1,19 +1,51 @@
-<h3 align="center">I'm a Data science</h3>
+# Hi there! 👋 I'm Shilpi Chadokar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpi1612&label=Profile%20views&color=0e75b6&style=flat" alt="shilpi1612" /> </p>
+Welcome to my GitHub profile! I'm a passionate **Data Scientist in training**, combining a solid foundation in **statistical analysis**, **programming**, and **mathematics** with a love for **problem-solving** and **data-driven decision-making**. My goal is to leverage data to uncover meaningful insights and create impactful solutions.
 
-- 🌱 I’m currently learning **Gen AI, Agentic AI**
+## 🌟 About Me
+- 🎓 **Pursuing MSc in Data Science and Statistics** at **Graphic Era Hill University, Dehradun** (2023-2025).
+- 🧠 Enthusiast in **Machine Learning**, **AI**, and **Advanced Analytics**.
+- 🎯 Passionate about **storytelling with data** and enabling smarter business decisions.
+- 💡 President of the **Statistics Society** during my undergraduate studies.
 
-- 📫 How to reach me **shilpichadokar0@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shilpi-chadokar-8810b21b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shilpi-chadokar-8810b21b9/" height="30" width="40" /></a>
-</p>
+## 🔧 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpi1612&show_icons=true&locale=en&layout=compact" alt="shilpi1612" /></p>
+### **Data Analysis & AI/ML**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpi1612&show_icons=true&locale=en" alt="shilpi1612" /></p>
+### **Data Visualization**
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### **Tools & Frameworks**
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### **Mathematics & Statistics**
+- Linear Algebra, Probability, Statistical Analysis
+
+### **Soft Skills**
+- Problem-Solving | Analytical Thinking | Attention to Detail | Storytelling with Data | Agile Learning
+
+---
+
+## 🚀 Featured Project
+### **Laptop Price Prediction Model**
+- Developed a machine learning model to predict laptop prices based on features like brand, processor type, RAM size, and storage capacity.
+- Implemented and compared models: **Linear Regression**, **KNN**, **Decision Tree**, and **Random Forest**.
+- Delivered a highly accurate **Random Forest** model to assist consumers and businesses in making informed decisions.
+- Highlighted key factors impacting prices: **Processor type**, **RAM size**, **Storage capacity**, and **Brand**.
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpi-chadokar/)  
+📧 Email: shilpichadokar0@gmail.com  
+📞 Phone: +91 83490 40228
+
+---
+
+Feel free to explore my projects and repositories, and don't hesitate to reach out for collaborations or discussions. Let's make data work for us! 🚀
