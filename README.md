@@ -1,48 +1,60 @@
 # 👋 Hello, I'm Shilpi Chadokar 
-### *Agentic AI Engineer | M.Sc. Statistics & Data Science*
+### **Agentic AI Engineer | M.Sc. Statistics & Data Engineering**
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Building%20Autonomous%20Agents&fontSize=40&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=005571&height=250&section=header&text=Agentic%20AI%20Specialist&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-## 🚀 About Me
-I am an **Agentic AI Specialist** with a strong mathematical foundation in **Statistics**. I specialize in building autonomous systems that reason, act, and self-correct to solve complex real-world problems. My work focuses on moving beyond simple chatbots to create fully orchestrated agentic workflows.
+---
 
-- 🛠️ Currently architecting **Agentic Workflows** using **LangGraph** and **n8n**.
-- 📊 Expert in transforming unstructured data into actionable intelligence through **RAG Pipelines**.
-- 💡 Passionate about **Human-in-the-Loop** AI systems for safety and brand compliance.
+## 🚀 Professional Summary
+I bridge the gap between **Statistical Rigor** and **Autonomous AI**. I specialize in building "Thinking Machines"—agents that don't just generate text, but orchestrate complex workflows, reason through constraints, and execute real-world tasks.
+
+- 🛠️ **Currently:** Architecting Multi-Agent Workflows using **LangGraph** and **n8n**.
+- 📊 **Foundation:** M.Sc. in Data Science & Statistics (Specializing in Mathematical AI).
+- 💡 **Philosophy:** Building high-trust AI with **Human-in-the-Loop** safety architectures.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Agentic AI & GenAI** | LangChain, LangGraph, Gemini, OpenAI, Claude, Tool Calling, MCP, Fine-Tuning (LoRA) |
-| **Automation** | n8n, Custom JavaScript Nodes, API Orchestration |
-| **Data & Databases** | SQL, Pinecone, FAISS, ChromaDB, spaCy, Statistics |
-| **Backend & DevOps** | Python, FastAPI, Streamlit, Docker, CI/CD, GitHub |
+### **🧠 Generative & Agentic AI**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI_|_Gemini_|_Claude-red?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
+* **Specialties:** LangGraph, Tool Calling, RAG Pipelines, MCP (Model Context Protocol), Fine-Tuning (LoRA, QLoRA).
+
+### **📊 Core AI & Statistics**
+![Stats](https://img.shields.io/badge/Statistics-Mathematical_Modeling-blue?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine_Learning-Deep_Learning-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Transformers-orange?style=for-the-badge)
+* **Toolkit:** spaCy, Scikit-learn, Neural Networks, Probability Theory.
+
+### **🗄️ Databases & Infrastructure**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-27272E?style=for-the-badge&logo=pinecone&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+* **Others:** FAISS, ChromaDB, Streamlit, GitHub Actions (CI/CD).
 
 ---
 
 ## 🌟 Featured Projects
 
 ### ⚖️ **Legal Intelligence & Social Automation (PanScience Innovation)**
-*An autonomous "Growth Head" agent that automates the lifecycle of legal marketing.*
-- **Core Tech:** n8n, Gemini 2.5 Flash, JavaScript, LinkedIn API.
-- **Problem:** Manually tracking judicial trends was slow and error-prone.
-- **Solution:** Built a workflow to sanitize RSS feeds (XML to JSON), filter strategic trends, and generate infographics via **Nano Banana**.
-- [cite_start]**Impact:** Reduced manual research time from 4 hours to **30 seconds** with a built-in Gmail approval gate.
+*An autonomous "Growth Head" agent automating the lifecycle of legal marketing.*
+- **Action:** Built a workflow to sanitize messy XML RSS feeds into clean JSON using **Custom JS Nodes**.
+- **Reasoning:** Used **Gemini 2.5 Flash** to filter high-value legal trends matching product solutions.
+- **Creativity:** Integrated **Nano Banana API** for automated, brand-compliant infographic generation.
+- **Safety:** Implemented a **Human-in-the-Loop** approval gate via Gmail.
 
-### ✈️ **Autonomous AI Travel Agent**
-*A self-correcting travel planner that automates 100% of manual search iterations.*
-- **Core Tech:** LangGraph, Streamlit, Tavily, SerpApi.
-- [cite_start]**Innovation:** Architected a self-correcting loop that iterates through flights until budget constraints are met.
-- [cite_start]**Deep Research:** Scrapes 10+ sources (Reddit, blogs) to synthesize data-backed itineraries.
-
-### 💳 **RAG-Based Financial Advisor (Cloud Quest)**
-*Transforming messy bank statements into personalized budgeting plans.*
-- **Core Tech:** LangChain, spaCy, Groq.
-- [cite_start]**Impact:** Automated the detection of complex transactions (EMIs, bills) and implemented a 50/30/20 budgeting logic.
-
+### ✈️ **Autonomous AI Travel Agent (LangGraph)**
+*A self-correcting agentic workflow that identifies flight options within strict budget constraints.*
+- **Innovation:** Architected an autonomous loop that self-corrects based on real-time API feedback.
+- **Research:** Built a "Deep Research" pipeline scraping 10+ sources (Reddit/Blogs) using **Tavily & SerpApi**.
+- **Impact:** Reduced trip planning time by **90%**.
 ---
 
 ## 📈 Education & Certifications
