@@ -1,19 +1,18 @@
 # 👋 Hello, I'm Shilpi Chadokar 
-### **Agentic AI Engineer **
+### *Agentic AI Engineer | M.Sc. Statistics & Data Science*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=005571&height=250&section=header&text=Agentic%20AI%20Specialist&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
----
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Building%20Autonomous%20Agents&fontSize=40&animation=fadeIn)
+
+## 🚀 About Me
+I am an **Agentic AI Specialist**. I specialize in building autonomous systems that reason, act, and self-correct to solve complex real-world problems. My work focuses on moving beyond simple chatbots to create fully orchestrated agentic workflows.
 
 ## 🚀 Professional Summary
 I bridge the gap between **Statistical Rigor** and **Autonomous AI**. I specialize in building "Thinking Machines"—agents that don't just generate text, but orchestrate complex workflows, reason through constraints, and execute real-world tasks.
 
 - 🛠️ **Currently:** Architecting Multi-Agent Workflows using **LangGraph** and **n8n**.
-- 📊 **Foundation:** M.Sc. in Data Science & Statistics (Specializing in Mathematical AI).
+- 📊 **Foundation:** M.Sc. in Data Science & Statistics.
 - 💡 **Philosophy:** Building high-trust AI with **Human-in-the-Loop** safety architectures.
 
----
 
 ## 🛠️ Technical Arsenal
 
