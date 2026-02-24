@@ -55,9 +55,9 @@ I bridge the gap between **Statistical Rigor** and **Autonomous AI**. I speciali
 ---
 
 ## 📈 Education & Certifications
-- **M.Sc. in Data Science & Statistics** | [cite_start]Graphic Era Hill University (CGPA: 7.98) 
-- **B.Sc. in Statistics** | [cite_start]Nagpur University
-- - **PG Certification in Data Science & AI** | [cite_start]IIT Roorkee
+- **M.Sc. in Data Science & Statistics** | Graphic Era Hill University Dehradun (CGPA: 7.98) 
+- **B.Sc. in Statistics** |Nagpur University
+- **PG Certification in Data Science & AI** |IIT Roorkee
 
 ---
 
