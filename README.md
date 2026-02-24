@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Shilpi Chadokar 
-### *Agentic AI Engineer *
+### *Agentic AI Engineer*
 
 
 ## 🚀 About Me
