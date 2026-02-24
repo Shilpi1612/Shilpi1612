@@ -1,10 +1,9 @@
 # 👋 Hello, I'm Shilpi Chadokar 
-### **Agentic AI Engineer | M.Sc. Statistics & Data Engineering**
+### **Agentic AI Engineer **
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=005571&height=250&section=header&text=Agentic%20AI%20Specialist&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
-
 ---
 
 ## 🚀 Professional Summary
