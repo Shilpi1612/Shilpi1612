@@ -30,25 +30,25 @@ I am an **Agentic AI Specialist** with a strong mathematical foundation in **Sta
 - **Core Tech:** n8n, Gemini 2.5 Flash, JavaScript, LinkedIn API.
 - **Problem:** Manually tracking judicial trends was slow and error-prone.
 - **Solution:** Built a workflow to sanitize RSS feeds (XML to JSON), filter strategic trends, and generate infographics via **Nano Banana**.
-- [cite_start]**Impact:** Reduced manual research time from 4 hours to **30 seconds** with a built-in Gmail approval gate[cite: 45, 48, 49].
+- [cite_start]**Impact:** Reduced manual research time from 4 hours to **30 seconds** with a built-in Gmail approval gate.
 
 ### ✈️ **Autonomous AI Travel Agent**
 *A self-correcting travel planner that automates 100% of manual search iterations.*
 - **Core Tech:** LangGraph, Streamlit, Tavily, SerpApi.
-- [cite_start]**Innovation:** Architected a self-correcting loop that iterates through flights until budget constraints are met[cite: 59].
-- [cite_start]**Deep Research:** Scrapes 10+ sources (Reddit, blogs) to synthesize data-backed itineraries[cite: 60].
+- [cite_start]**Innovation:** Architected a self-correcting loop that iterates through flights until budget constraints are met.
+- [cite_start]**Deep Research:** Scrapes 10+ sources (Reddit, blogs) to synthesize data-backed itineraries.
 
 ### 💳 **RAG-Based Financial Advisor (Cloud Quest)**
 *Transforming messy bank statements into personalized budgeting plans.*
 - **Core Tech:** LangChain, spaCy, Groq.
-- [cite_start]**Impact:** Automated the detection of complex transactions (EMIs, bills) and implemented a 50/30/20 budgeting logic[cite: 55, 56].
+- [cite_start]**Impact:** Automated the detection of complex transactions (EMIs, bills) and implemented a 50/30/20 budgeting logic.
 
 ---
 
 ## 📈 Education & Certifications
-- **M.Sc. in Data Science & Statistics** | [cite_start]Graphic Era Hill University (CGPA: 7.98) [cite: 66]
-- **PG Certification in Data Science & AI** | [cite_start]IIT Roorkee [cite: 70]
-- **B.Sc. in Statistics** | [cite_start]Nagpur University [cite: 67]
+- **M.Sc. in Data Science & Statistics** | [cite_start]Graphic Era Hill University (CGPA: 7.98) 
+- **B.Sc. in Statistics** | [cite_start]Nagpur University
+- - **PG Certification in Data Science & AI** | [cite_start]IIT Roorkee
 
 ---
 
