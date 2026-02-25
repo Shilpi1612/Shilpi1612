@@ -62,6 +62,6 @@ I bridge the gap between **Statistical Rigor** and **Autonomous AI**. I speciali
 ---
 
 ## 📫 Let's Connect!
-- 💼 **LinkedIn:** [Your LinkedIn Link]https://www.linkedin.com/in/shilpi-chadokar-offical/
-- 📧 **Email:** [Your Email Address]shilpichadokar0@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/shilpi-chadokar-offical/]
+- 📧 **Email:** [shilpichadokar0@gmail.com]
 ---
